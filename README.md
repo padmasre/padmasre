@@ -46,7 +46,7 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=padmasre&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=padmasre&show_icons=true&count_private=true&hide_border=true&theme=dark" align="center" /></div>  
 
 <br/>  
 
@@ -71,8 +71,6 @@
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
-
 
 <!--
 **padmasre/padmasre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
