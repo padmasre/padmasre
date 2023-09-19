@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Intro](images/github-header-image%20(1).png)
+![Intro](images/github-header-image%20(2).png)
 <!--
 **padmasre/padmasre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
